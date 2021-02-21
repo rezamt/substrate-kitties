@@ -1,29 +1,3 @@
-# Assignment One
-
-1. Setup development environment
-2. Clone this project
-3. Update author in all Cargo.toml files
-4. Run a single node testnet and send a transaction
-5. Make screenshots of the Polkadot-JS Apps UI including the transaction details
-6. Make screenshots of stdout of node file and highlight the block number containing the transaction
-7. Submit the screenshots to submission folder
-8. Push all the changes
-
----
-
-# Assignment Two
-
-1. Design kitties pallet
-2. Requirements:
-    - Kitty must have a 128 bit DNA, which is randomly generated
-    - Kitty must have one owner
-    - A user can have zero or more kitties
-    - Users can create kitties
-3. Submit the design document to submission folder
-4. Push all the changes
-
----
-
 # Substrate Node Template
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
